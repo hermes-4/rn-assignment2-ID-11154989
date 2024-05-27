@@ -5,11 +5,11 @@ node_modules/
 
 #local
 .assets
-app.json
-package.json
-package-lock.json
-babel.config.json
-README.md
+.app.json
+.package.json
+.package-lock.json
+.babel.config.json
+.README.md
 
 # Expo
 .expo/
